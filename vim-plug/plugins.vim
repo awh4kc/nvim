@@ -72,6 +72,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'justinmk/vim-sneak'
     Plug 'unblevable/quick-scope'
     Plug 'arcticeicestudio/nord-vim'
+    Plug 'arcticicestudio/nord-vim'
   endif
 
 
