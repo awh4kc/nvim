@@ -95,11 +95,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Text Navigation
     Plug 'justinmk/vim-sneak'
     Plug 'unblevable/quick-scope'
-<<<<<<< HEAD
-    Plug 'arcticeicestudio/nord-vim'
-=======
     Plug 'arcticicestudio/nord-vim'
->>>>>>> d3b141d...  mine
   endif
 
 
