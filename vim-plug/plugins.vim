@@ -92,6 +92,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ChristianChiarulli/codi.vim'
     " Vim Wiki
     " Plug 'https://github.com/vimwiki/vimwiki.git'
+    " Text Navigation
+    Plug 'justinmk/vim-sneak'
+    Plug 'unblevable/quick-scope'
+    Plug 'arcticeicestudio/nord-vim'
   endif
 
 
